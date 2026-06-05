@@ -5,7 +5,8 @@ An AI-powered research automation system that performs real-time web research, e
 Built using LangChain, Mistral AI, Tavily Search API, and BeautifulSoup.
 
 ---
-<img width="1919" height="911" alt="Screenshot 2026-06-06 000400" src="https://github.com/user-attachments/assets/638ec4ad-dcf0-4214-8e98-37c3308f0fcf" />
+<img width="1917" height="992" alt="Screenshot 2026-06-06 001219" src="https://github.com/user-attachments/assets/20f3b3f8-75ae-45df-a781-09725d5ff83e" />
+
 
 
 ## Project Overview
