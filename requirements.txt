@@ -1,0 +1,73 @@
+# Core LLM Framework
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+# Tavily Search Tool
+tavily-python
+
+# OpenAI Models
+openai
+
+# Web Scraping
+beautifulsoup4
+lxml
+html5lib
+
+# HTTP Requests
+requests
+httpx
+aiohttp
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# Tokenization
+tiktoken
+
+# LangSmith Tracing & Monitoring
+langsmith
+
+# Utilities
+tenacity
+typing-extensions
+
+# Async Utilities
+anyio
+
+# Structured Output & Parsing
+jsonschema
+
+# Logging
+rich
+
+# Data Handling
+pandas
+numpy
+
+# URL Processing
+urllib3
+
+# CLI
+click
+
+# Web UI Framework
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Visualization & Charts
+plotly>=5.17.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Testing (optional)
+pytest
+pytest-asyncio
+
+# Mistral AI
+langchain-mistralai
