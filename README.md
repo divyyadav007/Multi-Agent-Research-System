@@ -1,10 +1,12 @@
-# AI Research Assistant
+# Multi Agent Research System
 
 An AI-powered research automation system that performs real-time web research, extracts relevant information from online sources, generates structured research reports, and automatically evaluates report quality using a multi-stage agentic workflow.
 
 Built using LangChain, Mistral AI, Tavily Search API, and BeautifulSoup.
 
 ---
+<img width="1919" height="911" alt="Screenshot 2026-06-06 000400" src="https://github.com/user-attachments/assets/638ec4ad-dcf0-4214-8e98-37c3308f0fcf" />
+
 
 ## Project Overview
 
@@ -256,9 +258,9 @@ Orchestrates the complete research workflow.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Research-Assistant.git
+git clone https://github.com/divyyadav007/Multi-Agent-Research-System.git
 
-cd AI-Research-Assistant
+cd Multi-Agent-Research-System
 ```
 
 ## Create Virtual Environment
@@ -402,29 +404,6 @@ Planned upgrades:
 
 ---
 
-# Resume Description
-
-Developed an AI-powered Research Assistant using LangChain, Mistral AI, Tavily Search API, and BeautifulSoup.
-
-Designed a multi-stage agentic workflow for real-time information retrieval, web content extraction, report generation, and automated quality evaluation.
-
-Implemented end-to-end research automation capable of generating structured reports from live web data while reducing hallucinations through external knowledge retrieval.
-
----
-
-# Interview Topics Covered
-
-- Agentic AI Systems
-- LangChain
-- Tool Calling
-- Prompt Engineering
-- Web Scraping
-- LLM Orchestration
-- Information Retrieval
-- Research Automation
-- AI Evaluation Pipelines
-
----
 
 # License
 
